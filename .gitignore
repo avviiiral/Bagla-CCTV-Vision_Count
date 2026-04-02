@@ -1,0 +1,18 @@
+# Python
+env/
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+*.pth
+
+# Logs / CSV
+*.csv
+
+# Node
+node_modules/
+
+# OS / IDE
+.vscode/
+.DS_Store
