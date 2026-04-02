@@ -15,7 +15,7 @@ An industrial-grade AI system for monitoring production lines using CCTV cameras
 ---
 
 ## 📁 Project Structure
-
+```
 cctv_ai_system/
 │
 ├── backend/
@@ -30,7 +30,7 @@ cctv_ai_system/
 │       └── vite.config.js
 │
 └── README.md
-
+```
 ---
 
 ## ⚙️ Backend Setup
@@ -60,7 +60,7 @@ Frontend runs at: http://localhost:5173
 ---
 
 ## 🔗 System Architecture
-
+```
 CCTV Cameras (RTSP)
         ↓
 FastAPI Backend (YOLO + Tracking + Counting)
@@ -68,7 +68,7 @@ FastAPI Backend (YOLO + Tracking + Counting)
 WebSocket + REST APIs
         ↓
 React Dashboard (Live Monitoring)
-
+```
 ---
 
 ## 📡 API Endpoints
@@ -133,4 +133,6 @@ CAMERAS = {
 
 ## 👨‍💻 Author
 
+Aviral Goyal
+aviralgoyal739@gmail.com
 Industrial AI CCTV monitoring system
