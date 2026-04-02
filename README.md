@@ -133,6 +133,8 @@ CAMERAS = {
 
 ## 👨‍💻 Author
 
-Aviral Goyal
-aviralgoyal739@gmail.com
-Industrial AI CCTV monitoring system
+**Aviral Goyal**
+📧 [aviralgoyal739@gmail.com](mailto:aviralgoyal739@gmail.com)
+
+Developer of an Industrial AI-based CCTV Monitoring System for real-time production tracking and analytics.
+
