@@ -276,3 +276,5 @@ def hourly_counts(cam_id: str):
         return []
 
     return [{"hour": h, "count": result[h]} for h in sorted(result, key=lambda x: int(x))]
+
+# uvicorn server1:app --reload
